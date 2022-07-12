@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    
+}
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.first{
+    background-image: url(../img/6203221d-e978-4a6a-8c7c-c2907920da05.jpg);
+    background-size: cover;
+}
+.six{
+    background-image: url(../img/something.jpg);
+    background-size: cover;
+}
+@media only screen and (max-width:1600px){
+    .start{
+        display: block;
+    }
+  } 
+  @media only screen and (max-width:576px){
+   .seven .summer{
+        border-radius: 0;
+    }
+    #id{
+        display: block;}
+   .text .first_text{
+        font-size: 2rem;
+    }
+  } 
